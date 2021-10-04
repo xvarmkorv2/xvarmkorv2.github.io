@@ -73,3 +73,6 @@ nav:
         - OrientationChanged: DeviceInfo/API Reference/event_OrientationChanged.md
         - WindowSizeChanged: DeviceInfo/API Reference/event_WindowSizeChanged.md
         - GraphicsQualityChanged: DeviceInfo/API Reference/event_GraphicsQualityChanged.md
+  - ColorPickerModule:
+    - ColorPickerModule/About.md
+    - ColorPickerModule/Usage.md
