@@ -1,0 +1,75 @@
+site_name: RadiatedExodus's Public Module Documentation
+site_url: https://realethanplayzdev.github.io/
+theme:
+  name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+        primary: blue
+        accent: blue
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+        primary: blue
+        accent: blue
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+        primary: blue
+        accent: blue
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+        primary: blue
+        accent: blue
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.instant
+    - navigation.indexes
+    - navigation.tracking
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+plugins:
+  - search
+markdown_extensions:
+  - meta
+  - pymdownx.highlight:
+      linenums: true
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - footnotes
+  - admonition
+  - pymdownx.details
+nav:
+  - DeviceInfo:
+    - DeviceInfo/About.md
+    - DeviceInfo/Usage.md
+    - API Reference:
+      - Functions:
+        - GetDevicePlatform(): DeviceInfo/API Reference/func_GetDevicePlatform.md
+        - GetDeviceType(): DeviceInfo/API Reference/func_GetDeviceType.md
+        - GetDeviceInput(): DeviceInfo/API Reference/func_GetDeviceInput.md
+        - GetDeviceOrientation(): DeviceInfo/API Reference/func_GetDeviceOrientation.md
+        - GetWindowSize(): DeviceInfo/API Reference/func_GetWindowSize.md
+        - GetGraphicsQuality(): DeviceInfo/API Reference/func_GetGraphicsQuality.md
+      - Enums (DeviceInfoEnum):
+        - PlatformType: DeviceInfo/API Reference/enum_PlatformType.md
+        - DeviceType: DeviceInfo/API Reference/enum_DeviceType.md
+        - InputType: DeviceInfo/API Reference/enum_InputType.md
+        - DeviceOrientation: DeviceInfo/API Reference/enum_DeviceOrientation.md
+      - Events:
+        - InputChanged: DeviceInfo/API Reference/event_InputChanged.md
+        - OrientationChanged: DeviceInfo/API Reference/event_OrientationChanged.md
+        - WindowSizeChanged: DeviceInfo/API Reference/event_WindowSizeChanged.md
+        - GraphicsQualityChanged: DeviceInfo/API Reference/event_GraphicsQualityChanged.md
