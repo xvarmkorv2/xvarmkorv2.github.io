@@ -9,6 +9,3 @@ API Reference coming soon.
 - [boatbomber](https://www.roblox.com/users/33655127/profile) - Made changes to make EgoMoose's design to be better.
 - [EgoMoose](https://www.roblox.com/users/2155311/profile) - Made initial prompt design and script.
 - [RadiatedExodus (ItzEthanPlayz_YT)](https://www.roblox.com/users/124648395/profile) - Using the gui to create this module.
-
-## Pages
-- [Usage](/ColorPickerModule/Usage/)

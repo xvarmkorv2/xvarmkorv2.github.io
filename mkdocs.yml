@@ -7,28 +7,28 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
-        primary: blue
-        accent: blue
+        primary: red
+        accent: red
     - scheme: slate
       toggle:
         icon: material/weather-night
         name: Switch to light mode
-        primary: blue
-        accent: blue
+        primary: red
+        accent: red
     - media: "(prefers-color-scheme: light)"
       scheme: default
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
-        primary: blue
-        accent: blue
+        primary: red
+        accent: red
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
         icon: material/weather-night
         name: Switch to light mode
-        primary: blue
-        accent: blue
+        primary: red
+        accent: red
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -44,14 +44,14 @@ plugins:
   - search
 markdown_extensions:
   - meta
-  - pymdownx.highlight:
-      linenums: true
+  - pymdownx.highlight
   - pymdownx.superfences
   - pymdownx.tabbed
   - footnotes
   - admonition
   - pymdownx.details
 nav:
+  - index.md
   - DeviceInfo:
     - DeviceInfo/About.md
     - DeviceInfo/Usage.md
@@ -76,3 +76,8 @@ nav:
   - ColorPickerModule:
     - ColorPickerModule/About.md
     - ColorPickerModule/Usage.md
+    - API Reference:
+      - Functions:
+        - promptPickColor(): ColorPickerModule/API Reference/func_promptPickColor.md
+      - Enums (ColorPickerModuleEnum):
+        - returnType: ColorPickerModule/API Reference/enum_returnType.md
