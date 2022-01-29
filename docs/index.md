@@ -8,3 +8,5 @@ This website, as said above provides documentation, usages, and about for module
 ## Public modules available
 - [Device Info](./DeviceInfo/About/)
 - [Color Picker Module](./ColorPickerModule/About/)
+- [RigConverter](./RigConverter/About/)
+- [StarGenerator](./StarGenerator/About/)

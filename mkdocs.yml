@@ -81,3 +81,17 @@ nav:
         - promptPickColor(): ColorPickerModule/API Reference/func_promptPickColor.md
       - Enums (ColorPickerModuleEnum):
         - returnType: ColorPickerModule/API Reference/enum_returnType.md
+  - RigConverter:
+    - RigConverter/About.md
+    - API Reference:
+      - Functions:
+        - R6(): RigConverter/API Reference/func_R6.md
+        - R15(): RigConverter/API Reference/func_R15.md
+  - StarGenerator:
+    - StarGenerator/About.md
+    - API Reference:
+      - Functions:
+        - Generate(): StarGenerator/API Reference/func_Generate.md
+      - Types:
+        - posv3: StarGenerator/API Reference/type_posv3.md
+        - posnum: StarGenerator/API Reference/type_posnum.md
