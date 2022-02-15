@@ -42,6 +42,7 @@ theme:
     - search.share
 plugins:
   - search
+  - mkdocs-video
 markdown_extensions:
   - meta
   - pymdownx.highlight
@@ -95,3 +96,23 @@ nav:
       - Types:
         - posv3: StarGenerator/API Reference/type_posv3.md
         - posnum: StarGenerator/API Reference/type_posnum.md
+  - GeometryLinesBackground:
+    - GeometryLinesBackground/About.md
+    - API Reference:
+      - Functions:
+        - new(): GeometryLinesBackground/API Reference/func_new.md
+        - StartRender(): GeometryLinesBackground/API Reference/func_StartRender.md
+        - StopRender(): GeometryLinesBackground/API Reference/func_StopRender.md
+        - IsRendering(): GeometryLinesBackground/API Reference/func_IsRendering.md
+        - SetAmountOfDots(): GeometryLinesBackground/API Reference/func_SetAmountOfDots.md
+        - SetRootFrame(): GeometryLinesBackground/API Reference/func_SetRootFrame.md
+        - SetDotBackgroundColor3(): GeometryLinesBackground/API Reference/func_SetDotBackgroundColor3.md
+        - SetLineBackgroundColor3(): GeometryLinesBackground/API Reference/func_SetLineBackgroundColor3.md
+        - SetTransparencyEnabled(): GeometryLinesBackground/API Reference/func_SetTransparencyEnabled.md
+      - Public/exported variables:
+        - RootFrame: GeometryLinesBackground/API Reference/publicvar_RootFrame.md
+        - AmountOfDots: GeometryLinesBackground/API Reference/publicvar_AmountOfDots.md
+        - DotBackgroundColor3: GeometryLinesBackground/API Reference/publicvar_DotBackgroundColor3.md
+        - LineBackgroundColor3: GeometryLinesBackground/API Reference/publicvar_LineBackgroundColor3.md
+        - TransparencyEnabled: GeometryLinesBackground/API Reference/publicvar_TransparencyEnabled.md
+        - Rendering: GeometryLinesBackground/API Reference/publicvar_Rendering.md
