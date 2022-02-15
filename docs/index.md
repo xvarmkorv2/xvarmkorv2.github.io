@@ -10,3 +10,4 @@ This website, as said above provides documentation, usages, and about for module
 - [Color Picker Module](./ColorPickerModule/About/)
 - [RigConverter](./RigConverter/About/)
 - [StarGenerator](./StarGenerator/About/)
+- [GeometryLinesBackground](./GeometryLinesBackground/About/)
