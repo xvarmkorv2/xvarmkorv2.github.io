@@ -7,4 +7,9 @@
 
 DeviceInfo is a module designed to try and detect the player's platform, device type, etc. Inspired by World Builder's device detection, this module uses hacky ways to try to detect the device type, platform, etc __**however it should be noted that detection cannot be guranteed 100% correct**__
 
-[Get the module here](https://github.com/RealEthanPlayzDev/Rblx-LibUsefulUtil/blob/master/LibUsefulUtility/LibDeviceInfo.lua)
+https://devforum.roblox.com/t/716491
+
+## Get the module
+- [GitHub gist](https://gist.github.com/RealEthanPlayzDev/60258fb3a9282089aab838952a64895c)
+- [Roblox model](https://www.roblox.com/library/5343169924)
+- [Roblox place](https://www.roblox.com/games/5343186856)
