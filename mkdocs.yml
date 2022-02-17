@@ -116,3 +116,22 @@ nav:
         - LineBackgroundColor3: GeometryLinesBackground/API Reference/publicvar_LineBackgroundColor3.md
         - TransparencyEnabled: GeometryLinesBackground/API Reference/publicvar_TransparencyEnabled.md
         - Rendering: GeometryLinesBackground/API Reference/publicvar_Rendering.md
+  - RESignal:
+    - RESignal/About.md
+    - API Reference:
+      - new(): RESignal/API Reference/func_new.md
+      - RESignal.SignalBehavior: RESignal/API Reference/enum_SignalBehavior.md
+      - RESignal:
+        - Functions:
+          - Fire(): RESignal/API Reference/RESignal/func_Fire.md
+          - DisconnectAll(): RESignal/API Reference/RESignal/func_DisconnectAll.md
+          - Connect(): RESignal/API Reference/RESignal/func_Connect.md
+          - ConnectOnce(): RESignal/API Reference/RESignal/func_ConnectOnce.md
+          - Wait(): RESignal/API Reference/RESignal/func_Wait.md
+          - SetSignalBehavior(): RESignal/API Reference/RESignal/func_SetSignalBehavior.md
+          - Destroy(): RESignal/API Reference/RESignal/func_Destroy.md
+      - RESignalConnection:
+        - Functions:
+          - Disconnect(): RESignal/API Reference/RESignalConnection/func_Disconnect.md
+        - Public/exposed variables:
+          - Connected: RESignal/API Reference/RESignalConnection/publicvar_Connected.md
