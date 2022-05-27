@@ -53,6 +53,8 @@ markdown_extensions:
   - pymdownx.details
 nav:
   - index.md
+  - Webutils:
+    - WebUtil
   - DeviceInfo:
     - DeviceInfo/About.md
     - DeviceInfo/Usage.md
