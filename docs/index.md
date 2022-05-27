@@ -10,7 +10,7 @@ This website, as said above provides documentation, usages, and about for module
 - [Roblox Developer Forum](https://devforum.roblox.com/u/itzethanplayz_yt/)
 - [Twitter](https://twitter.com/RadiatedExodus)
 - [YouTube](https://www.youtube.com/channel/UCuLAUKIVWXpzSKgn8U6TllA)
-- <a href="https://discord.com/users/469977493299003412" alt="gmail acoaccountunt">
+- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=xvarmkorv2@gmail.com" alt="gmail acoaccountunt">
 <img src="https://img.shields.io/badge/EMail-xvarmkorv2@gmail.com-2C2D72?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 - <a href="https://discord.com/users/469977493299003412" alt="discord account">
 <img src="https://img.shields.io/badge/Discord-xVarmkorv2%239278-2C2D72?style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -20,9 +20,11 @@ This website, as said above provides documentation, usages, and about for module
 
 
 
+\*
 ## Public modules available
 - [Device Info](./DeviceInfo/About/)
 - [Color Picker Module](./ColorPickerModule/About/)
 - [RigConverter](./RigConverter/About/)
 - [StarGenerator](./StarGenerator/About/)
 - [GeometryLinesBackground](./GeometryLinesBackground/About/)
+\*
