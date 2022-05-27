@@ -1,5 +1,5 @@
 # Home
-Welcome to the public documentation for stuff made by me (xvarmkorv2)!
+Welcome to the public documentation for stuff made or modified by me (xvarmkorv2)!
 This website, as said above provides documentation, usages, and about for modules I made.
 
 ## Contact me!
