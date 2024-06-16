@@ -11,8 +11,6 @@ This website, as said above provides documentation, usages, and about for module
   <img src="https://img.shields.io/badge/Roblox%20Devforum-@xvarmkorv2-2C2D72?style=for-the-badge&logo=roblox&logoColor=white"/></a>
 - <a href="https://twitter.com/Varmkorv_Tva" alt="twitter account">
   <img src="https://img.shields.io/badge/Twitter-@Varmkorv_Tva-2C2D72?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=xvarmkorv2@gmail.com" alt="gmail acoaccountunt">
-<img src="https://img.shields.io/badge/EMail-xvarmkorv2@gmail.com-2C2D72?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 - <a href="https://discord.com/users/469977493299003412" alt="discord account">
 <img src="https://img.shields.io/badge/Discord-xVarmkorv2%239278-2C2D72?style=for-the-badge&logo=discord&logoColor=white"/></a>
 - <a href="https://www.reddit.com/r/Varmkorv_Tva/" alt="Subreddit">
